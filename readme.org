@@ -1,0 +1,18 @@
+* cmake-completion
+
+** INSTALL
+   - git clone
+   - in emacs =eval=:
+     #+begin_src  emacs-lisp
+(package-install-file "/path/to/cmake-completion/cmake-completion.el")
+     #+end_src
+
+** Usage
+   M-x =complete-symbol=
+   or
+   binding =complete-symbol= to M-Tab
+
+
+** Package required
+   - cmake-mode
+
