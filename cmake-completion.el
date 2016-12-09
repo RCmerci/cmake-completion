@@ -1,4 +1,3 @@
-
 ;;; cmake-completion.el --- cmake completion         -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2016  rcmerci
